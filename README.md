@@ -88,8 +88,8 @@ By leveraging deep learning and medical imaging expertise, this model offers acc
 <div style="display: flex; flex-wrap: wrap;">
    <img src="https://lh3.googleusercontent.com/drive-viewer/AKGpihbnXHL_5l-1dXs_h5BvbtfuBv9JWInxRAGFoAeJv8BPHi7UGmlnBAzequmfWfIGAPBlP-4LxvzIu55lMQqLLcaGGhyiHQ=w3200-h1730" width="400" alt="Image 4">
     <img src="https://lh3.googleusercontent.com/drive-viewer/AKGpihYYm9zgS2zolQ1tz5GJSQUIswmzohUwuPYZx4-vB25R3MFG2tXbjcMPtolp22ioYGC2J_FHHAcMjHxRDvy28jMY7XD1Xg=w3200-h1730-v0" width="400" alt="Image 1">
-    <img src="https://lh3.googleusercontent.com/drive-viewer/AKGpihZAeWkEMeWZbErWUc5kTAup4I0XRYs2fA8poB1VRcfW-cYtGNz4miyPb0yC6TY2qQwXxWWBoeEsQ-vvmeOH9IxqlcrO8w=w3200-h1730-v0" width="400" alt="Image 2">
-    <img src="https://lh3.googleusercontent.com/drive-viewer/AKGpihZX0NRt2aK3ZY-mwZt0bZWs48DuuPuSYiAAFmoXCVWjD-DQT4n4lE2glr8yjAjmjaDPoM7IyVl_S8S2Z5dGMwgX6AKPHQ=w3200-h1730-v0" width="400" alt="Image 3">
+    <img src="https://lh3.googleusercontent.com/drive-viewer/AKGpihZAeWkEMeWZbErWUc5kTAup4I0XRYs2fA8poB1VRcfW-cYtGNz4miyPb0yC6TY2qQwXxWWBoeEsQ-vvmeOH9IxqlcrO8w=w3200-h1730-v0" width="800" alt="Image 2">
+    <img src="https://lh3.googleusercontent.com/drive-viewer/AKGpihZX0NRt2aK3ZY-mwZt0bZWs48DuuPuSYiAAFmoXCVWjD-DQT4n4lE2glr8yjAjmjaDPoM7IyVl_S8S2Z5dGMwgX6AKPHQ=w3200-h1730-v0" width="800" alt="Image 3">
    
 </div>
 
