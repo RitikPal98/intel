@@ -93,7 +93,26 @@ By leveraging deep learning and medical imaging expertise, this model offers acc
    
 </div>
 
-## Configuration
+# What It Does 🤖🚀
 
-- Backend configuration settings can be found in `config.py`.
-- Frontend configuration settings can be found in `src/config.js`.
+Our application revolutionizes the field of medical imaging by providing an efficient and accurate solution for tumor detection from MRI scan images. Here's a breakdown of its key functionalities:
+
+1. **Image Upload for Tumor Detection: 📷🔍**
+
+   - Users can upload MRI scan images of patients through the frontend interface for tumor detection.
+   - The application accepts MRI scan images in standard formats and provides users with a simple and intuitive interface to upload their medical images.
+
+2. **Model Processing Using TensorFlow and OpenCV: 🧠⚙️🔬**
+
+   - Upon image upload, the application processes the MRI scan images using TensorFlow and OpenCV libraries to detect the presence of tumors.
+   - TensorFlow is utilized to build and train deep learning models for tumor detection, leveraging convolutional neural networks (CNNs) for feature extraction and classification tasks.
+   - OpenCV is employed for image preprocessing, augmentation, and post-processing tasks to enhance the accuracy and reliability of tumor detection.
+
+3. **Output Prediction of Tumor Presence: 🔮💡**
+
+   - After processing the MRI scan images, the application generates predictions indicating the presence or absence of tumors.
+   - Users receive clear and actionable insights into the status of their medical condition, aiding healthcare professionals in diagnosis and treatment planning.
+
+In summary, our application leverages the power of TensorFlow and OpenCV to offer efficient and reliable tumor detection capabilities from MRI scan images. With a user-friendly interface, we aim to improve healthcare outcomes and enhance patient care in the field of medical imaging. 🌐🔬💊
+
+This description provides an overview of the application's functionalities and highlights its potential impact on medical imaging practices and patient care.
