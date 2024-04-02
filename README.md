@@ -77,6 +77,21 @@ Overall, the collaborative utilization of Intel Developer Cloud's advanced compu
 
 [![Click here to watch the demo video](https://img.youtube.com/vi/oBRMdQpaP50&t=16s/0.jpg)](demo-final.mp4)
 
+## Tumor Prediction 🛍️💡
+
+This code snippet showcases the implementation of a tumor detection model using deep learning techniques. Leveraging state-of-the-art convolutional neural networks (CNNs) such as ResNet or VGG, the model analyzes MRI scan images to identify the presence of tumors.
+
+The tumor detection process involves preprocessing MRI scan images, feeding them into the CNN-based model for feature extraction, and then applying classification algorithms to predict the presence or absence of tumors. Additionally, transfer learning techniques can be utilized to fine-tune pre-trained CNN models on medical imaging datasets, thereby enhancing the model's performance on tumor detection tasks.
+
+By leveraging deep learning and medical imaging expertise, this model offers accurate and reliable tumor detection capabilities, aiding healthcare professionals in diagnosing and treating patients effectively. 🧠💻🏥🔬
+
+<div style="display: flex;">
+    <img src="https://in.pinterest.com/pin/813251645181468778/" width="200" alt="Image 1">
+    <img src="http://assets.myntassets.com/v1/images/style/properties/Reid---Taylor-Men-White-Shirt_7868945b6d3a95140b08b1719b0092f1_images.jpg" width="200" alt="Image 2">
+    <img src="http://assets.myntassets.com/v1/images/style/properties/ea2bbdc84a4512d5987e74c557e2b141_images.jpg" width="200" alt="Image 3">
+    <img src="http://assets.myntassets.com/v1/images/style/properties/Arrow-Men-White-Striped-Shirt_e9c86c6203c4b2ac6d9739069ebc71e7_images.jpg" width="200" alt="Image 4">
+</div>
+
 ## Configuration
 
 - Backend configuration settings can be found in `config.py`.
