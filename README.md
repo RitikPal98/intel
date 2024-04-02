@@ -86,10 +86,11 @@ The tumor detection process involves preprocessing MRI scan images, feeding them
 By leveraging deep learning and medical imaging expertise, this model offers accurate and reliable tumor detection capabilities, aiding healthcare professionals in diagnosing and treating patients effectively. 🧠💻🏥🔬
 
 <div style="display: flex;">
-    <img src="https://in.pinterest.com/pin/813251645181468778/" width="200" alt="Image 1">
-    <img src="http://assets.myntassets.com/v1/images/style/properties/Reid---Taylor-Men-White-Shirt_7868945b6d3a95140b08b1719b0092f1_images.jpg" width="200" alt="Image 2">
-    <img src="http://assets.myntassets.com/v1/images/style/properties/ea2bbdc84a4512d5987e74c557e2b141_images.jpg" width="200" alt="Image 3">
-    <img src="http://assets.myntassets.com/v1/images/style/properties/Arrow-Men-White-Striped-Shirt_e9c86c6203c4b2ac6d9739069ebc71e7_images.jpg" width="200" alt="Image 4">
+   <img src="https://lh3.googleusercontent.com/drive-viewer/AKGpihbnXHL_5l-1dXs_h5BvbtfuBv9JWInxRAGFoAeJv8BPHi7UGmlnBAzequmfWfIGAPBlP-4LxvzIu55lMQqLLcaGGhyiHQ=w3200-h1730" width="200" alt="Image 4">
+    <img src="https://lh3.googleusercontent.com/drive-viewer/AKGpihYYm9zgS2zolQ1tz5GJSQUIswmzohUwuPYZx4-vB25R3MFG2tXbjcMPtolp22ioYGC2J_FHHAcMjHxRDvy28jMY7XD1Xg=w3200-h1730-v0" width="200" alt="Image 1">
+    <img src="https://lh3.googleusercontent.com/drive-viewer/AKGpihZAeWkEMeWZbErWUc5kTAup4I0XRYs2fA8poB1VRcfW-cYtGNz4miyPb0yC6TY2qQwXxWWBoeEsQ-vvmeOH9IxqlcrO8w=w3200-h1730-v0" width="200" alt="Image 2">
+    <img src="https://lh3.googleusercontent.com/drive-viewer/AKGpihZX0NRt2aK3ZY-mwZt0bZWs48DuuPuSYiAAFmoXCVWjD-DQT4n4lE2glr8yjAjmjaDPoM7IyVl_S8S2Z5dGMwgX6AKPHQ=w3200-h1730-v0" width="200" alt="Image 3">
+   
 </div>
 
 ## Configuration
