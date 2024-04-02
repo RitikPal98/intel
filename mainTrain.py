@@ -102,6 +102,7 @@ validation_data=(x_test, y_test),
 shuffle=False)
 
 
+
 model.save('BrainTumor10EpochsCategorical.h5')
 
 
