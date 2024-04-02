@@ -77,6 +77,8 @@ Overall, the collaborative utilization of Intel Developer Cloud's advanced compu
 
 # Demonstration of the Project
 
+https://www.youtube.com/watch?v=gXvJ1LIzFJs
+
 [Click here to watch the demo video](https://www.youtube.com/watch?v=gXvJ1LIzFJs)
 
 ## Tumor Prediction and Result Generation 🛍️💡
