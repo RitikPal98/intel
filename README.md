@@ -93,6 +93,16 @@ By leveraging deep learning and medical imaging expertise, this model offers acc
    
 </div>
 
+# Built With 🛠️
+
+1. **Backend - Flask:** Our application's backend and server functionality are powered by Flask, a lightweight and flexible web framework for Python. Flask enables us to handle server-side logic efficiently, process uploaded MRI scan images, and invoke machine learning models for tumor detection. 🐍🚀
+
+2. **Machine Learning Models - TensorFlow and OpenCV:** The core functionality of tumor detection is implemented using TensorFlow, a powerful framework for building and training neural networks. Additionally, OpenCV, a computer vision library, is utilized for image preprocessing, feature extraction, and post-processing tasks, enhancing the accuracy and reliability of tumor detection from MRI scan images. 🧠⚙️🔬
+
+3. **Intel Developer Cloud:** Leveraging Intel's high-performance CPU and XPU capabilities, we accelerate model inference processes, reducing processing time and improving the efficiency of tumor detection from MRI scan images. ⚡💻
+
+This tech stack enables us to deliver a robust and efficient tumor detection application, providing users with accurate and timely insights into their medical condition. 🩺🔬🔍
+
 # What It Does 🤖🚀
 
 Our application revolutionizes the field of medical imaging by providing an efficient and accurate solution for tumor detection from MRI scan images. Here's a breakdown of its key functionalities:
@@ -114,5 +124,3 @@ Our application revolutionizes the field of medical imaging by providing an effi
    - Users receive clear and actionable insights into the status of their medical condition, aiding healthcare professionals in diagnosis and treatment planning.
 
 In summary, our application leverages the power of TensorFlow and OpenCV to offer efficient and reliable tumor detection capabilities from MRI scan images. With a user-friendly interface, we aim to improve healthcare outcomes and enhance patient care in the field of medical imaging. 🌐🔬💊
-
-This description provides an overview of the application's functionalities and highlights its potential impact on medical imaging practices and patient care.
