@@ -13,7 +13,7 @@ This project implements a chatbot interface for tumor detection using deep learn
 
 - **Image Upload:** Users can upload images of medical scans for tumor detection.
 - **Real-time Response:** Chatbot provides real-time responses indicating the presence of a tumor.
-- **Simple Interface:** User-friendly interface resembling a chat application.
+- **Simple Interface:** User-friendly interface.
 
 ## Requirements
 
@@ -26,25 +26,13 @@ This project implements a chatbot interface for tumor detection using deep learn
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/username/tumor-detection-chatbot.git
+   git clone https://github.com/RitikPal98/intel.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd tumor-detection-chatbot
-   ```
-
-3. Install backend dependencies:
-
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-4. Install frontend dependencies:
-
-   ```bash
-   npm install
+   cd intel
    ```
 
 ## Usage
@@ -126,4 +114,4 @@ Our application revolutionizes the field of medical imaging by providing an effi
    - After processing the MRI scan images, the application generates predictions indicating the presence or absence of tumors.
    - Users receive clear and actionable insights into the status of their medical condition, aiding healthcare professionals in diagnosis and treatment planning.
 
-In summary, our application leverages the power of TensorFlow and OpenCV to offer efficient and reliable tumor detection capabilities from MRI scan images. With a user-friendly interface, we aim to improve healthcare outcomes and enhance patient care in the field of medical imaging. 🌐🔬💊
+In summary, our application leverages the power of Intel Developer Cloud, TensorFlow and OpenCV to offer efficient and reliable tumor detection capabilities from MRI scan images. With a user-friendly interface, we aim to improve healthcare outcomes and enhance patient care in the field of medical imaging. 🌐🔬💊
