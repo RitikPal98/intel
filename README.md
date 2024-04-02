@@ -68,7 +68,7 @@ Overall, the collaborative utilization of Intel Developer Cloud's advanced compu
 
 ## Demonstration of the Project
 
-[![Click here to watch the demo video](https://img.youtube.com/vi/1.00/0.jpg)](demo-final.mp4)
+[![Click here to watch the demo video](https://img.youtube.com/vi/oBRMdQpaP50&t=16s/0.jpg)](demo-final.mp4)
 
 ## Configuration
 
