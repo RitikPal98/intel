@@ -66,6 +66,10 @@ In practical terms, the training time for a single epoch has been drastically re
 
 Overall, the collaborative utilization of Intel Developer Cloud's advanced computing infrastructure, optimized deep learning frameworks, and high-performance libraries has been pivotal in accelerating the development and deployment of our tumor detection model. This advancement contributes to improved patient care and outcomes in the field of medical imaging. 🩺🔬
 
+## Demonstration of the Project
+
+[![Click here to watch the demo video](https://img.youtube.com/vi/1.00/0.jpg)](demo-final.mp4)
+
 ## Configuration
 
 - Backend configuration settings can be found in `config.py`.
