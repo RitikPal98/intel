@@ -95,6 +95,10 @@ In our project, we have seamlessly integrated Intel oneAPI Toolkits to enhance p
 
 This tech stack enables us to deliver a robust and efficient tumor detection application, providing users with accurate and timely insights into their medical condition. 🩺🔬🔍
 
+# [Medium Blog](https://medium.com/@snehakarna2004/tumor-detection-chatbot-using-intel-devcloud-idc-oneapi-toolkit-and-hugging-face-c52cd26425f7) Describing the project
+
+We wrote a detailed Medium blog post about our project. It covers everything from the beginning to the end: what our project is about, where we got our data from, how we built our model, and what results we got. Check out the full blog to learn more![here](https://medium.com/@snehakarna2004/tumor-detection-chatbot-using-intel-devcloud-idc-oneapi-toolkit-and-hugging-face-c52cd26425f7) :)
+
 # What It Does 🤖🚀
 
 Our application revolutionizes the field of medical imaging by providing an efficient and accurate solution for tumor detection from MRI scan images. Here's a breakdown of its key functionalities:
