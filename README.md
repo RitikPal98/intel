@@ -63,8 +63,6 @@ Overall, the collaborative utilization of Intel Developer Cloud's advanced compu
 
 ## Demonstration of the Project
 
-# Demonstration of the Project
-
 [![Click here to watch the demo video](https://img.youtube.com/vi/gXvJ1LIzFJs/0.jpg)](https://www.youtube.com/watch?v=gXvJ1LIzFJs)
 [Click here to watch the demo video](https://www.youtube.com/watch?v=gXvJ1LIzFJs)
 
@@ -83,6 +81,10 @@ By leveraging deep learning and medical imaging expertise, this model offers acc
     <img src="https://lh3.googleusercontent.com/drive-viewer/AKGpihZX0NRt2aK3ZY-mwZt0bZWs48DuuPuSYiAAFmoXCVWjD-DQT4n4lE2glr8yjAjmjaDPoM7IyVl_S8S2Z5dGMwgX6AKPHQ=w3200-h1730-v0" width="800" alt="Image 3">
    
 </div>
+
+# Integration of Intel oneAPI Toolkits
+
+In our project, we have seamlessly integrated Intel oneAPI Toolkits to enhance performance and optimize various components of our application. Leveraging these toolkits, we have achieved significant improvements in computational efficiency and overall system performance. Specifically, we have utilized components such as Intel-optimized Python and Intel-optimized Scikit-Learn to enhance the performance of our machine learning algorithms. Additionally, the integration of Intel Developer Cloud has further accelerated our model training and inference processes, enabling faster and more efficient execution of tasks. By leveraging the power of Intel oneAPI Toolkits, we have optimized our application to deliver superior performance and provide a seamless user experience.
 
 # Built With 🛠️
 
